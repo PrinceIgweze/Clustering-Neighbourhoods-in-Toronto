@@ -1,6 +1,6 @@
 # Clustering-Neighbourhoods-in-Toronto
 
-In this project I clustering Neighbourhoods in Toronto using K-means 
+In this project, I cluster Neighbourhoods in Toronto using K-means 
 
 The first part of this project details building a dataframe of postal codes for each neighbourhoods along with borough and neighbourhood name using the Pandas python library
 
